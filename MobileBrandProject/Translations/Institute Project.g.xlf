@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Institute Project">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 5380397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 2180759954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Brand ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 413296520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Brand Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 2500892784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Created Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 5380397 - Field 2626717425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile Brand - Field Last Modified Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 5380397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 303288135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 2268144090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 3951604535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1350483582 - Field 854235057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mobile List - Field Mobile Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1702220597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileBrand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1702220597 - Control 2180759954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill In With Brand ID. Should Be Unique ..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileBrand - Control Brand ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1702220597 - Control 413296520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill In With Brand Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileBrand - Control Brand Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1702220597 - Control 2500892784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileBrand - Control Created Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1702220597 - Control 2626717425 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileBrand - Control Last Modified Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1394682352 - Control 303288135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileCard - Control Mobile Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1394682352 - Control 2268144090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileCard - Control Mobile Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1394682352 - Control 5380397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileCard - Control Mobile Brand - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1394682352 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileCard - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2143410902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2143410902 - Control 5380397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileList - Control Mobile Brand - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2143410902 - Control 303288135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileList - Control Mobile Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2143410902 - Control 2268144090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileList - Control Mobile Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2143410902 - Control 3951604535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MobileList - Control Mobile ID - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
